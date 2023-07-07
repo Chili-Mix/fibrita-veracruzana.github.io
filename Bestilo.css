@@ -15,7 +15,7 @@ body{
     background-color: white;
    }
 
-   a[href*="inicio"],
+   a[href*="index"],
    a[href*="articulos"],
    a[href*="contactanos"]{
       text-decoration: none;
